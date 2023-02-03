@@ -1,0 +1,10 @@
+environment: 'development / test'
+server:
+  port: 'Override default if required'
+database:
+  postgres:
+    host: 'server host'
+    port: 'server port'
+    username: 'server user'
+    password: 'server password'
+    database: 'server database'
